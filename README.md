@@ -60,9 +60,9 @@ body json
 
 {
 
-&nbsp;  "number": "62xxxxx",
+ "number": "62xxxxx",
 
-&nbsp;  "message": "your-message"
+ "message": "your-message"
 
 }
 
@@ -78,9 +78,9 @@ Connect to broker ismaillowkey.my.id and publish with topic \*\*wa/private/send\
 
 {
 
-&nbsp;"number" : "62xxxx",
+"number" : "62xxxx",
 
-&nbsp;"message" :  "your message"
+"message" :  "your message"
 
 }
 
@@ -96,9 +96,9 @@ Connect to broker ismaillowkey.my.id and publish with topic \*\*wa/private/send/
 
 {
 
-&nbsp;"number" : "62xxxx",
+"number" : "62xxxx",
 
-&nbsp;"message" :  "base64 image"
+"message" :  "base64 image"
 
 }
 
